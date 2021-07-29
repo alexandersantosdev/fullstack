@@ -1,7 +1,4 @@
-# Minha primeira aplicação fullstack sem seguir tutorial
-
-
-### Orgulhosamente apresento meu primeiro projeto usando apenas o que aprendi.
+# Meu primeiro projeto usando apenas o que aprendi, sem seguir tutorial.
 
 
 ## BackEnd em Java com SpringBoot
